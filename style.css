@@ -1,5 +1,6 @@
 /* Tag selector to select the 'body' element */
 body {
+width : 700px ; margin : auto ; font-family: "Helvetica Neue" ; background : white ; padding : 30px ;
   /* Your code here! */
 }
 
@@ -10,6 +11,7 @@ div {
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
+font-style: italic ; 
   /* Your code here! */
   color:red;
 }
